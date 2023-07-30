@@ -27,7 +27,7 @@ Procedure to connect:
 
 9. Upload the code to esp8266.
 
-8. Go to thingspeak.com and create the channel and setup.
+8. Go to https://thingspeak.com/ and create the channel and setup.
 
 9. Go to https://ai2.appinventor.mit.edu/ for mit app inventor and import the .aia file and make changes Read API key, Write API key, Home URL of Web Viewer.
 
