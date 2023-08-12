@@ -127,7 +127,7 @@ void loop() {
     Serial.println(h);
     Serial.print("Soil moisture percentage (%):");
     Serial.println(moisturePercentage);
-    Serial.println("Send to Thingspak.");
+    Serial.println("Send to Thingspeak.");
     Serial.println("------------------------------------------------------------");
   }
   client.stop();
